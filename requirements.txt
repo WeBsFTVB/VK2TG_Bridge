@@ -1,0 +1,5 @@
+Flask
+vk-api
+python-telegram-bot
+psycopg2-binary
+sqlalchemy
