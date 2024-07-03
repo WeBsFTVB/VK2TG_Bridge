@@ -1,5 +1,4 @@
-Flask
-vk-api
-python-telegram-bot
-psycopg2-binary
+vk_api
+pytelegrambotapi
 sqlalchemy
+psycopg2-binary
